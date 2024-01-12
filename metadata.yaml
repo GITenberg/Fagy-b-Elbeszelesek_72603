@@ -1,0 +1,30 @@
+_repo: Fagy-b-Elbeszelesek_72603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kóbor, Tamás
+    alias: Kobor, Tamas
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '41508'
+    url: http://www.gutenberg.org/2009/agents/41508
+    wikipedia: https://hu.wikipedia.org/wiki/K%C3%B3bor_Tam%C3%A1s_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72603'
+language: hu
+pgterms:marc905: 20240102231519kbor
+pgterms:marc906: '1895'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAthenaeum, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fagy : $b Elbeszélések'
+url: http://www.gutenberg.org/ebooks/72603
